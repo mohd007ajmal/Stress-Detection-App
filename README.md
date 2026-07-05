@@ -208,17 +208,6 @@ Prediction
 
 ---
 
-# 📸 Demo
-
-Add screenshots here after uploading the project.
-
-Example:
-
-```
-assets/demo.png
-```
-
----
 
 # 🔮 Future Improvements
 
