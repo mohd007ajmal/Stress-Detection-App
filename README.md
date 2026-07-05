@@ -237,10 +237,10 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Author
 
-**Ajmal M**
+**Muhammed Ajmal A**
 
-B.Tech – Computer Science & Engineering
+M.Tech – CSE(AI/ML)
 
 Machine Learning • Deep Learning • Artificial Intelligence
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/mohd007ajmal
